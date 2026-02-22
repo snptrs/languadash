@@ -16,7 +16,7 @@ export function NavBar() {
             href="/"
             className="text-xl font-bold tracking-tight text-inherit"
           >
-            LingoDash
+            LanguaDash
           </Link>
         </div>
         <NavigationMenu>
